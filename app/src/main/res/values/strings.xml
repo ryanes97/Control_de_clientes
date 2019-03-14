@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Control_de_clientes</string>
+    <string name="enter">Entra</string>
+    <string name="out">Salen</string>
+    <string name="cero">0</string>
+    <string name="btn">ADD</string>
+</resources>
